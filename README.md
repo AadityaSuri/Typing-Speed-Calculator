@@ -7,3 +7,5 @@ Typing Speed Calculator using C++
 -run executable file included in the folder to use the application
 
 -the source code and executable use file handling to create and read .dat and .txt files in the downloaded folder, do not remove either the .cpp or the .exe file from the folder, you may create a shortcut of the .exe file to the desktop
+
+-the raw string literal R("") in the .cpp file will only run for C++ 11 and above
